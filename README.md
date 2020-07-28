@@ -9,10 +9,11 @@
 * server.js handles simple find queries and static pages
 
 ## Installation
-* Clone the repository, creating a new folder
-* Make sure node and npm are working
-* To start locally, issue node server.js
+* We are going to set this up in the same folder as before and utilizing some of the old files
+* The client files will be in /votebd/client/app2020
+* The server will be /votebd/le
 
 ## Structure
-* Each page is made up of a copy of index.html, which includes header.html, a middle.html and footer.html where middle
-* At the moment, everything is local so it can run offline without access to cdn.
+* Each page is made up of a copy of template.html, which includes header.html and footer.html
+* The main content will be adapted from the existing view pages
+* 
